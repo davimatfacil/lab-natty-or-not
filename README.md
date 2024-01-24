@@ -1,10 +1,10 @@
-# Natural ou Fake Natty? Criação de um aplicativo shiny usando IA, ou criei sozinho?
+# Natural ou Fake Natty? Criação de um aplicativo shiny: será que criei sozinho?
 
 ## 🚀 Introdução
 
 > Woooow! Look at this 👀
 
-Sou o Davi Rocha. Matemático de formação e apaixondado por dados.
+Sou o Davi Rocha. Mestre em Matemática Aplicada e apaixondado por dados.
 
 ## 🎯 Bora Pro Desafio!? 💪🤓
 
