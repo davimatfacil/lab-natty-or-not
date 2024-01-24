@@ -30,6 +30,13 @@ o prompt utilizado para criação do aplicatvo foi:
 **crie um shihy dashboard  usando os dados de gapminder do pacote gapminder,  criando um grafico de linha onde o eixo x
  sao os anos e o eixo y gdpPerca. Crie um filtro com os paises**
 
+Houve um erro quando tentei rodar o código:
+**Erro 1: Não encontrou a função %>%**
+Apesar de poder resolver colocando o pacote do R que teria tal função ou atualizar o código sem essa função, pedi para meu amigo
+chatgpt m ajudar com o seguinte prompt:
+*** ao rodar o código obtive o erro: could not find function "%>%"  poderia me dar uma sugestão de solução?**
+após isso o app rodou de forma correta e publiquei no https://www.shinyapps.io/
+
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
@@ -41,5 +48,5 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 
 ## Link do aplicativo:
 
-[Aplicativo criado:](https://davirochasilva.shinyapps.io/projeto_dio_shinny/)
+[Clique aqui e veja o app criado](https://davirochasilva.shinyapps.io/projeto_dio_shinny/)
 
