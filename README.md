@@ -1,10 +1,10 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Natural ou Fake Natty? Criação de um aplicativo shiny usando IA, ou criei sozinho?
 
 ## 🚀 Introdução
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Sou o Davi Rocha. Matemático de formação e apaixondado por dados.
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
