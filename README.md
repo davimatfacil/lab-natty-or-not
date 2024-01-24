@@ -23,7 +23,7 @@ Usei o chatgpt para criar um aplicativo shiny(pacote do R) que iria criar um gr�
 teria os anos e o eixo vertical o respectivo PIB per Capita. Queria ainda um filtro para visualizar paises diferentes.
 
 ## 🤖 Tecnologias Utilizadas
-ChatGPT somente e conhecimentos  de R.
+ChatGPT, conhecimentos  de R e do pacote shiny.
 
 ## 🧐 Processo de Criação
 o prompt utilizado para criação do aplicatvo foi:
