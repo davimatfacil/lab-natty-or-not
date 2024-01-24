@@ -1,0 +1,40 @@
+# Carregar bibliotecas necessárias
+library(shiny)
+library(gapminder)
+library(ggplot2)
+library(dplyr)
+# Definir o conjunto de dados
+data(gapminder)
+
+# Definir a UI
+ui <- fluidPage(
+    titlePanel("Gapminder Dashboard"),
+    
+    sidebarLayout(
+        sidebarPanel(
+            selectInput("country", "Selecione o país:", choices = unique(gapminder$country))
+        ),
+        
+        mainPanel(
+            plotOutput("linePlot")
+        )
+    )
+)
+
+# Definir o servidor
+server <- function(input, output) {
+    # Filtrar os dados com base na seleção do usuário
+    selectedData <- reactive({
+        gapminder %>% filter(country == input$country)
+    })
+    
+    # Gerar o gráfico de linha
+    output$linePlot <- renderPlot({
+        ggplot(selectedData(), aes(x = year, y = gdpPercap)) +
+            geom_line() +
+            labs(x = "Ano", y = "PIB per capita", title = "PIB per capita ao longo do tempo")
+    })
+}
+
+# Rodar o aplicativo Shiny
+shinyApp(ui = ui, server = server)
