@@ -32,16 +32,21 @@ o prompt utilizado para criação do aplicatvo foi:
 
 Houve um erro quando tentei rodar o código:
 **Erro 1: Não encontrou a função %>%**
-Apesar de poder resolver colocando o pacote do R que teria tal função ou atualizar o código sem essa função, pedi para meu amigo
-chatgpt m ajudar com o seguinte prompt:
+Apesar de poder resolver colocando o pacote do R que teria tal função ou atualizar o código sem essa função, pedi para
+meu amigo chatgpt me ajudar com o seguinte prompt:
+
 *** ao rodar o código obtive o erro: could not find function "%>%"  poderia me dar uma sugestão de solução?**
-após isso o app rodou de forma correta e publiquei no https://www.shinyapps.io/
+após isso ele sugeriu instalar e usar o pacote ``dplyr``. Fiz o solicitado  o app rodou de forma correta e publiquei
+no https://www.shinyapps.io/
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Crie um aplicativo shiny em poucos minutos(10 minutos). O que do zero poderia demorar algumas horas(5 horas).
+Resumindo, foi gasto 3%(10 minutos) do tempo(300 minutos) que  estimo que levaria para um programador com conhecimento do R
+e com conhecimentos intermediários do pacote shiny.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi interessante verificar a rapidez de criação do aplicativo. Se fosse em uma empresa a economia de tempo seria tremenda.
+Observando que a IA generativa nesse caso me ajudou a ser mais efetivo.
 ```
 
 
