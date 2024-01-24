@@ -51,7 +51,7 @@ Observando que a IA generativa nesse caso me ajudou a ser mais efetivo.
 
 
 
-## Link do aplicativo:
+## Link do aplicativo 🎯:
 
-[Clique aqui e veja o app criado](https://davirochasilva.shinyapps.io/projeto_dio_shinny/)
+[Clique aqui e veja o app criado 🚀](https://davirochasilva.shinyapps.io/projeto_dio_shinny/)
 
