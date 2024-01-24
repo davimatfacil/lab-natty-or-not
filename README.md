@@ -27,8 +27,8 @@ ChatGPT somente e conhecimentos  de R.
 
 ## 🧐 Processo de Criação
 o prompt utilizado para criação do aplicatvo foi:
-``crie um shihy dashboard  usando os dados de gapminder do pacote gapminder,  criando um grafico de linha onde o eixo x
- sao os anos e o eixo y gdpPerca. Crie um filtro com os paises``
+**crie um shihy dashboard  usando os dados de gapminder do pacote gapminder,  criando um grafico de linha onde o eixo x
+ sao os anos e o eixo y gdpPerca. Crie um filtro com os paises**
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
