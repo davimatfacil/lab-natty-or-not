@@ -4,7 +4,7 @@
 
 > Woooow! Look at this 👀
 
-Sou o Davi Rocha. Mestre em Matemática Aplicada e apaixondado por dados.
+Sou o Davi Rocha. Mestre em Matemática Aplicada e apaixonado por dados.
 
 ## 🎯 Bora Pro Desafio!? 💪🤓
 
